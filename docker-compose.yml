@@ -1,0 +1,4 @@
+dateservice:
+  build: date-service
+  ports:
+   - 8080:5000

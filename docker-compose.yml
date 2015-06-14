@@ -2,3 +2,8 @@ dateservice:
   build: date-service
   ports:
    - 8080:5000
+
+timeservice:
+  build: time-service
+  ports:
+   - 8081:5000
